@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">Food Spice</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+
+
+"Adrak - 2 inch
+Fresh Dhaniya - handful
+Dhaniya ke beej /seeds - ½ tsp
+Hari mirch - 2
+
+Masala -
+Aloo - 6-7 ( medium size boiled, and cool)
+Tel - 2 tbsp
+kasoori methi - 1 tsp
+Kala Namak - 1/2 tsp
+Amchoor powder -  1 1/2 tsp
+Namak - to taste
+Lalmirch powder - 1/2 tsp
+Dhaniya Powder - ½ tsp
+Jeera Powder - 1 tsp
+Kali Mirch Powder - 1/2 tsp
+Moti Mirch lal - 1/4 tsp
+Garam Masala - 1/4 tsp
+
+Samosa ka atta / dough ke liye : Maida - 2 1/2 Cup / 300g
+Oil - 3 Tbsp / 45-50 ml
+Pani - atta lagane ke liye
+Namak : to taste
+Ajwain - 1/2 tsp"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling2">ScrollingActivity</string>
+    <string name="sandwich">
+
+"Chopped vegetables like capsicum ( 1/2), Onion (1), Tomato (1).
+( You can add any toppings of your choice)
+  Boiled corns (1/2 Cup)
+ Butter
+ Bread (2 slices)
+ Mayonnaise ( easily available at grocery shops)
+ Pizza Sauce ( easily available at grocery shops)
+ Mozzarella Cheese
+ Black Pepper
+ Chilly Flakes
+ Oregano "
+    </string>
+    <string name="title_activity_scrolling3">ScrollingActivity</string>
+    <string name="text3">
+    "All purpose flour - 160 grams
+Maize flour - 160 grams
+Turmeric - 1/4 teaspoon
+Black pepper - 1/2 teaspoon
+Green chili - 1 1/2 tablespoons
+Salt - 1 teaspoon
+Oil - 2 tablespoons (divided)
+Butter - 2 tablespoons
+Water - 70 millilitres
+Green chili - 1 1/2 tablespoons
+Boiled potatoes - 350 grams
+Boiled corn - 150 grams
+Salt - 1/2 teaspoon
+Sugar - 1/2 teaspoon
+Lemon juice - 1 tablespoon
+Pizza n pasta sauce - 80 grams
+Mayonnaise - 2 tablespoons
+Cabbage - 30 grams
+Tomato - 50 grams
+Onions - 30 grams
+Bell pepper - 50 grams
+Salt - 1/2 teaspoon
+Lemon juice - 1 tablespoon"
+    </string>
+    <string name="title_activity_scrolling4">ScrollingActivity</string>
+    <string name="text4">
+   "    1 Cup Maida or Plain Flour (take out 1 tbs maida)
+        2 tbsp cocoa powder
+        1 tsp baking powder
+        1/2 tsp baking soda
+        1 tsp vanilla essence
+        1 tsp vinegar
+        1/4th cup odourless oil (80 gm butter)
+        1/2 cup castor sugar (normal sugar churned in mixie)
+        1/2 cup milk
+        1/2 cup curd
+Place butter paper in the pan
+Grease the pan
+Salt layer in the cooking pan for equal hit
+Cover pan lid with clothing to avoid water dripping in cake
+On gas flame, 10 min preheat, slow flame, 35-40 minutes baking
+150 gm dark chocolate melted and 150 gm milk compound melted
+Add 1/2 tsp milk in melted chocolate so the chocolate does'nt  get set
+Chocolate shave
+The chocolate melted on bubble wraps and set for decorating the cake"
+    </string>
+    <string name="title_activity_scrolling5">ScrollingActivity</string>
+    <string name="text5">
+
+"Flour 1/2 cup
+Salt 1/4 tsp
+Baking powder 1/2 tsp
+Baking soda 1/2 tsp
+Sugar 1 tsp
+Curd 3 tbsp (add more if needed)
+Oil 1 tbsp
+Knead for 5 mins
+Soft and smooth dough
+Let it rest for 15 mins
+Butter 2 tbsp
+Garlic 2-3 cloves (finely chopped)
+Coriander 2 tsp
+Salt
+Black pepper
+Chili flakes
+Mix herbs
+Mozzarella cheese
+Seal the edges very well
+Chili flakes
+Mix herbs
+Place a stand and heat the pan for 5 mins on medium flame
+After 5 mins place the baking tray
+Cook it on low flame for 25 - 35 mins or bake in a preheated oven at 180c for 20 - 30 mins"
+
+    </string>
+    <string name="title_activity_scrolling6">ScrollingActivity</string>
+    <string name="text6">
+
+"Maize flour- 1 cup
+Maida- 1/2 cup
+Turmeric Powder- 1/2 tsp
+salt to taste
+Oregano- 1/2 tsp
+oil- 2 tbsp
+water to knead
+
+sufficient oil to fry."
+    </string>
+    <string name="title_activity_scrolling7">ScrollingActivity</string>
+    <string name="text7">
+       " DOUGH:
+        1 cup all purpose flour/maida
+        1/2 cup whole wheat flour
+        Salt
+        1 tbsp oil
+        Water to knead
+
+        FRANKIE  MASALA:
+        2 tsp red chilly powder
+        1 tsp garam masala
+        1 tsp cumin powder
+        1 tsp coriander powder
+        2 tsp dry mango powder
+        1/2 tsp black pepper powder
+        1/4 tsp salt
+        little black salt
+
+        MASALA:
+        1 tbsp oil
+        1 tsp jeera
+        2 green chillies
+        1 onion into slices
+        2 tsp ginger garlic
+        2 tomatoes chopped/pureed
+        Salt
+        1 tsp red chilly powder
+        1 tsp coriander powder
+        2 tbsp tomato sauce
+        1 tbsp schezwan sauce
+        200 gms Paneer
+        1 capsicum
+        some cabbage
+        Fresh coriander"
+
+
+    </string>
+    <string name="title_activity_scrolling8">ScrollingActivity</string>
+    <string name="text8">
+        "MOMO:
+        Cabbage - 1 Small (grated)
+        Ginger - 2 inch piece (grated)
+        Green Chili - 1 (chopped)
+        Onion - 1 large(chopped)
+        Capsicum - 1 large(chopped)
+        Black pepper - 1 tsp
+        Carrot - 1 small (grated)
+        Salt and Pepper - to season
+        Oil - 1 tsp
+        Maida / Flour - 1 cup
+        Salt - to season
+        Oil - 1 tsp
+        Water - as req.
+
+        CHUTNEY:
+        12-15 dry red chillies
+        3-4 tomatoes
+        2-3 tbsp oil
+        2 tbsp garlic chopped
+        2 tbsp ginger chopped
+        1 big onion chopped
+        Salt
+        1 tsp sugar
+
+
+        "
+    </string>
+</resources>

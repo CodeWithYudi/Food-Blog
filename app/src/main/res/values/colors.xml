@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9F4021</color>
+    <color name="colorPrimaryDark">#60220E</color>
+    <color name="colorAccent">#E88364</color>
+
+    <color name="backgroundopacity">#AB363535</color>
+    <color name="startcolorgradient">#443C20</color>
+    <color name="endcolorgradient">#e8a564</color>
+
+    <color name="yellowish">#D56B4A</color>
+
+    <color name="border">#3C3F41</color>
+
+</resources>
